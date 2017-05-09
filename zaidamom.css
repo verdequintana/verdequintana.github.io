@@ -1,0 +1,26 @@
+.backgroundImage{
+  background: url("http://maxpixel.freegreatpicture.com/static/photo/1x/Mothers-Day-Mother-Motherhood-Mom-1372466.jpg");
+}
+p{
+  text-align: justify;
+  font-family: fantasy;
+  color: blue ;
+  font-size:24px;
+}
+h1{
+  color: yellow;
+  font-size: 30px;
+  font-family: cursive;
+}
+
+img{
+  width: 450px;
+  height: 300px;
+}
+
+body{
+  background-image:
+  url("https://cdn.pixabay.com/photo/2016/02/19/10/10/beer-1209107_960_720.jpg");
+
+
+}
