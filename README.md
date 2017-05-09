@@ -1,1 +1,0 @@
-# verdequintana.github.io
